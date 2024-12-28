@@ -2,7 +2,10 @@
 
 body{
     background-color: rgb(89, 90, 106);
-    color:white;
+
+
+    
+    color:rgb(229, 160, 160);
     height: 100vh;
     display: flex;
     justify-content: center;
